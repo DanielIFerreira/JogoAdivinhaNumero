@@ -1,0 +1,14 @@
+C:\Users\Alan\source\repos\JogoAdvinhacao\JogoAdvinhacao\bin\Debug\JogoAdvinhacao.exe.config
+C:\Users\Alan\source\repos\JogoAdvinhacao\JogoAdvinhacao\bin\Debug\JogoAdvinhacao.exe
+C:\Users\Alan\source\repos\JogoAdvinhacao\JogoAdvinhacao\bin\Debug\JogoAdvinhacao.pdb
+C:\Users\Alan\source\repos\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\JogoAdvinhacao.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\JogoAdvinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\JogoAdvinhacao.exe
+C:\Users\Alan\source\repos\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\JogoAdvinhacao.pdb
+C:\Users\Pichau\Desktop\JogoAdvinhacao\JogoAdvinhacao\bin\Debug\JogoAdvinhacao.exe.config
+C:\Users\Pichau\Desktop\JogoAdvinhacao\JogoAdvinhacao\bin\Debug\JogoAdvinhacao.exe
+C:\Users\Pichau\Desktop\JogoAdvinhacao\JogoAdvinhacao\bin\Debug\JogoAdvinhacao.pdb
+C:\Users\Pichau\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\JogoAdvinhacao.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\JogoAdvinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\JogoAdvinhacao.exe
+C:\Users\Pichau\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\JogoAdvinhacao.pdb
